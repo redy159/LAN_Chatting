@@ -1,0 +1,2 @@
+1/ Run /Server/bin/debug/Server.exe
+2/ Run /Client/bin/debug/Client.exe để truy cập người dùng

@@ -1,0 +1,128 @@
+C:\Users\admin\OneDrive - gm.uit.edu.vn\Đồ án\LTTQ\it008-lan-chat\Code\Clients\bin\Debug\Clients.exe.config
+C:\Users\admin\OneDrive - gm.uit.edu.vn\Đồ án\LTTQ\it008-lan-chat\Code\Clients\bin\Debug\Clients.exe
+C:\Users\admin\OneDrive - gm.uit.edu.vn\Đồ án\LTTQ\it008-lan-chat\Code\Clients\bin\Debug\Clients.pdb
+C:\Users\admin\OneDrive - gm.uit.edu.vn\Đồ án\LTTQ\it008-lan-chat\Code\Clients\bin\Debug\Cy_Connection_Client.dll
+C:\Users\admin\OneDrive - gm.uit.edu.vn\Đồ án\LTTQ\it008-lan-chat\Code\Clients\bin\Debug\Cy_Connection_Client.pdb
+C:\Users\admin\OneDrive - gm.uit.edu.vn\Đồ án\LTTQ\it008-lan-chat\Code\Clients\obj\Debug\Clients.csprojResolveAssemblyReference.cache
+C:\Users\admin\OneDrive - gm.uit.edu.vn\Đồ án\LTTQ\it008-lan-chat\Code\Clients\obj\Debug\Clients.Properties.Resources.resources
+C:\Users\admin\OneDrive - gm.uit.edu.vn\Đồ án\LTTQ\it008-lan-chat\Code\Clients\obj\Debug\Clients.csproj.GenerateResource.Cache
+C:\Users\admin\OneDrive - gm.uit.edu.vn\Đồ án\LTTQ\it008-lan-chat\Code\Clients\obj\Debug\Clients.exe
+C:\Users\admin\OneDrive - gm.uit.edu.vn\Đồ án\LTTQ\it008-lan-chat\Code\Clients\obj\Debug\Clients.pdb
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\Clients.exe
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\Cy_Connection_Client.dll
+C:\Users\admin\OneDrive - gm.uit.edu.vn\Đồ án\LTTQ\it008-lan-chat\Code\Clients\obj\Debug\Clients.ChatBox.resources
+C:\Users\admin\OneDrive - gm.uit.edu.vn\Đồ án\LTTQ\it008-lan-chat\Code\Clients\obj\Debug\Clients.GroupList.resources
+C:\Users\admin\OneDrive - gm.uit.edu.vn\Đồ án\LTTQ\it008-lan-chat\Code\Clients\obj\Debug\Clients.Login.resources
+C:\Users\admin\OneDrive - gm.uit.edu.vn\Đồ án\LTTQ\it008-lan-chat\Code\Clients\obj\Debug\Clients.WinForms.OnlineClientItem.resources
+C:\Users\admin\OneDrive - gm.uit.edu.vn\Đồ án\LTTQ\it008-lan-chat\Code\Clients\obj\Debug\Clients.Mess.TextMeesengerA.resources
+C:\Users\admin\OneDrive - gm.uit.edu.vn\Đồ án\LTTQ\it008-lan-chat\Code\Clients\obj\Debug\Clients.Mess.TextMessengerB.resources
+C:\Users\admin\OneDrive - gm.uit.edu.vn\Đồ án\LTTQ\it008-lan-chat\Code\Clients\obj\Debug\Clients.Mess.ImageMessengerA.resources
+C:\Users\admin\OneDrive - gm.uit.edu.vn\Đồ án\LTTQ\it008-lan-chat\Code\Clients\obj\Debug\Clients.Mess.ImageMessengerB.resources
+C:\Users\admin\OneDrive - gm.uit.edu.vn\Đồ án\LTTQ\it008-lan-chat\Code\Clients\obj\Debug\Clients.Mess.FileMessengerA.resources
+C:\Users\admin\OneDrive - gm.uit.edu.vn\Đồ án\LTTQ\it008-lan-chat\Code\Clients\obj\Debug\Clients.Mess.FileMessengerB.resources
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\Cy_Connection_Client.pdb
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\obj\Debug\Clients.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\obj\Debug\Clients.Mess.FileMessengerA.resources
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\obj\Debug\Clients.Mess.FileMessengerB.resources
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\obj\Debug\Clients.Mess.ImageMessengerA.resources
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\obj\Debug\Clients.Mess.ImageMessengerB.resources
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\obj\Debug\Clients.Mess.TextMeesengerA.resources
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\obj\Debug\Clients.Mess.TextMessengerB.resources
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\obj\Debug\Clients.ChatBox.resources
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\obj\Debug\Clients.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\obj\Debug\Clients.GroupList.resources
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\obj\Debug\Clients.Login.resources
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\obj\Debug\Clients.WinForms.OnlineClientItem.resources
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\obj\Debug\Clients.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\obj\Debug\Clients.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\obj\Debug\Clients.exe
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\obj\Debug\Clients.pdb
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\Clients.exe.config
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\bin\Debug\Clients.pdb
+C:\Users\ADMIN\source\repos\it008-lan-chat\Code\Clients\obj\Debug\Clients.csproj.CopyComplete
+C:\Users\Master\Downloads\Compressed\it008-lan-chat-master\it008-lan-chat-master\Code\Clients\bin\Debug\Clients.exe.config
+C:\Users\Master\Downloads\Compressed\it008-lan-chat-master\it008-lan-chat-master\Code\Clients\bin\Debug\Clients.exe
+C:\Users\Master\Downloads\Compressed\it008-lan-chat-master\it008-lan-chat-master\Code\Clients\bin\Debug\Clients.pdb
+C:\Users\Master\Downloads\Compressed\it008-lan-chat-master\it008-lan-chat-master\Code\Clients\bin\Debug\Cy_Connection_Client.dll
+C:\Users\Master\Downloads\Compressed\it008-lan-chat-master\it008-lan-chat-master\Code\Clients\bin\Debug\Cy_Connection_Client.pdb
+C:\Users\Master\Downloads\Compressed\it008-lan-chat-master\it008-lan-chat-master\Code\Clients\obj\Debug\Clients.csprojAssemblyReference.cache
+C:\Users\Master\Downloads\Compressed\it008-lan-chat-master\it008-lan-chat-master\Code\Clients\obj\Debug\Clients.Mess.FileMessengerA.resources
+C:\Users\Master\Downloads\Compressed\it008-lan-chat-master\it008-lan-chat-master\Code\Clients\obj\Debug\Clients.Mess.FileMessengerB.resources
+C:\Users\Master\Downloads\Compressed\it008-lan-chat-master\it008-lan-chat-master\Code\Clients\obj\Debug\Clients.Mess.ImageMessengerA.resources
+C:\Users\Master\Downloads\Compressed\it008-lan-chat-master\it008-lan-chat-master\Code\Clients\obj\Debug\Clients.Mess.ImageMessengerB.resources
+C:\Users\Master\Downloads\Compressed\it008-lan-chat-master\it008-lan-chat-master\Code\Clients\obj\Debug\Clients.Mess.TextMeesengerA.resources
+C:\Users\Master\Downloads\Compressed\it008-lan-chat-master\it008-lan-chat-master\Code\Clients\obj\Debug\Clients.Mess.TextMessengerB.resources
+C:\Users\Master\Downloads\Compressed\it008-lan-chat-master\it008-lan-chat-master\Code\Clients\obj\Debug\Clients.ChatBox.resources
+C:\Users\Master\Downloads\Compressed\it008-lan-chat-master\it008-lan-chat-master\Code\Clients\obj\Debug\Clients.Properties.Resources.resources
+C:\Users\Master\Downloads\Compressed\it008-lan-chat-master\it008-lan-chat-master\Code\Clients\obj\Debug\Clients.GroupList.resources
+C:\Users\Master\Downloads\Compressed\it008-lan-chat-master\it008-lan-chat-master\Code\Clients\obj\Debug\Clients.Login.resources
+C:\Users\Master\Downloads\Compressed\it008-lan-chat-master\it008-lan-chat-master\Code\Clients\obj\Debug\Clients.WinForms.OnlineClientItem.resources
+C:\Users\Master\Downloads\Compressed\it008-lan-chat-master\it008-lan-chat-master\Code\Clients\obj\Debug\Clients.csproj.GenerateResource.cache
+C:\Users\Master\Downloads\Compressed\it008-lan-chat-master\it008-lan-chat-master\Code\Clients\obj\Debug\Clients.csproj.CoreCompileInputs.cache
+C:\Users\Master\Downloads\Compressed\it008-lan-chat-master\it008-lan-chat-master\Code\Clients\obj\Debug\Clients.csproj.CopyComplete
+C:\Users\Master\Downloads\Compressed\it008-lan-chat-master\it008-lan-chat-master\Code\Clients\obj\Debug\Clients.exe
+C:\Users\Master\Downloads\Compressed\it008-lan-chat-master\it008-lan-chat-master\Code\Clients\obj\Debug\Clients.pdb
+C:\Users\Master\Desktop\LTTQ\Code\Clients\bin\Debug\Clients.exe.config
+C:\Users\Master\Desktop\LTTQ\Code\Clients\bin\Debug\Clients.exe
+C:\Users\Master\Desktop\LTTQ\Code\Clients\bin\Debug\Clients.pdb
+C:\Users\Master\Desktop\LTTQ\Code\Clients\bin\Debug\Cy_Connection_Client.dll
+C:\Users\Master\Desktop\LTTQ\Code\Clients\bin\Debug\Cy_Connection_Client.pdb
+C:\Users\Master\Desktop\LTTQ\Code\Clients\obj\Debug\Clients.csprojAssemblyReference.cache
+C:\Users\Master\Desktop\LTTQ\Code\Clients\obj\Debug\Clients.Mess.FileMessengerA.resources
+C:\Users\Master\Desktop\LTTQ\Code\Clients\obj\Debug\Clients.Mess.FileMessengerB.resources
+C:\Users\Master\Desktop\LTTQ\Code\Clients\obj\Debug\Clients.Mess.ImageMessengerA.resources
+C:\Users\Master\Desktop\LTTQ\Code\Clients\obj\Debug\Clients.Mess.ImageMessengerB.resources
+C:\Users\Master\Desktop\LTTQ\Code\Clients\obj\Debug\Clients.Mess.TextMeesengerA.resources
+C:\Users\Master\Desktop\LTTQ\Code\Clients\obj\Debug\Clients.Mess.TextMessengerB.resources
+C:\Users\Master\Desktop\LTTQ\Code\Clients\obj\Debug\Clients.ChatBox.resources
+C:\Users\Master\Desktop\LTTQ\Code\Clients\obj\Debug\Clients.Properties.Resources.resources
+C:\Users\Master\Desktop\LTTQ\Code\Clients\obj\Debug\Clients.GroupList.resources
+C:\Users\Master\Desktop\LTTQ\Code\Clients\obj\Debug\Clients.Login.resources
+C:\Users\Master\Desktop\LTTQ\Code\Clients\obj\Debug\Clients.WinForms.OnlineClientItem.resources
+C:\Users\Master\Desktop\LTTQ\Code\Clients\obj\Debug\Clients.csproj.GenerateResource.cache
+C:\Users\Master\Desktop\LTTQ\Code\Clients\obj\Debug\Clients.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\LTTQ\Code\Clients\obj\Debug\Clients.csproj.CopyComplete
+C:\Users\Master\Desktop\LTTQ\Code\Clients\obj\Debug\Clients.exe
+C:\Users\Master\Desktop\LTTQ\Code\Clients\obj\Debug\Clients.pdb
